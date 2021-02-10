@@ -4,7 +4,7 @@ public class MinAndMaxInArray
 {
 public static void main(String[] args) 
 {
-int arr[]= {101,21,3,4,2,78};
+int arr[]= {1000, 11, 445, 1, 330, 3000};
 //int arr[]= {11};	
 int max=0;
 int min=0;
